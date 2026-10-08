@@ -34,6 +34,9 @@ Añadimos el puerto 9999 debajo del 80
 Listen 80
 Listen 9999
 ```
+<img width="811" height="256" alt="Captura de 2026-10-08 17-43-39" src="https://github.com/user-attachments/assets/56735623-28d4-45bc-b520-08f4df1ef9ba" />
+
+
 
 Guardamos los cambios y salimos
 
@@ -64,6 +67,8 @@ Ponemos esta configuracion
     </Directory>
 </VirtualHost>
 ```
+<img width="873" height="316" alt="Captura de 2026-10-08 18-29-29" src="https://github.com/user-attachments/assets/93495ce5-a977-40ec-b168-9047e02d25e4" />
+
 
 Con esto la pagina principal funciona en el puerto 80 y la intranet en el 9999 con contraseña
 
